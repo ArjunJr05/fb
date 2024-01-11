@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932370166116",
+    "project_id": "lbff-56b41",
+    "storage_bucket": "lbff-56b41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932370166116:android:caabdb86ccbd0233cb4a71",
+        "android_client_info": {
+          "package_name": "com.example.fb"
+        }
+      },
+      "oauth_client": [932370166116],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmb0cqIxIfa5-2eC1AC9icsaZjMGTW-hY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
